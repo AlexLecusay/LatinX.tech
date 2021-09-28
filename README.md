@@ -1,8 +1,7 @@
-# LatinX.tech
-![website home screenshot](https://user-images.githubusercontent.com/90231709/135007111-9ba6a46e-9f23-4e24-a141-07b96b56b0aa.jpg
-![website home screenshot2](https://user-images.githubusercontent.com/90231709/135007118-bfe82a2e-46f8-4215-9a0f-ad7813f48b9f.jpg)
-![website home screenshot3](https://user-images.githubusercontent.com/90231709/135007126-6ad4fc56-f8d9-4200-8eb1-e3d7a016b0db.jpg)
-)
-![website home screenshot4](https://user-image
-![website home screenshot5](https://user-images.githubusercontent.com/90231709/135007135-cc875a2c-f099-47df-8bb1-897766975267.jpg)
-s.githubusercontent.com/90231709/135007131-9830b412-9be6-4267-9815-33db4b2d2c72.jpg)
+React is needed to run this website.
+![website home screenshot](https://user-images.githubusercontent.com/90231709/135007377-4b2347b4-4a23-4895-a9e0-83af46db7dda.jpg)
+![website home screenshot2](https://user-images.githubusercontent.com/90231709/135007379-e0f2b253-36de-4f6a-bd35-aab47f6f0d47.jpg)
+![website home screenshot3](https://user-images.githubusercontent.com/90231709/135007382-fffcb482-9bd4-461e-9af4-a4982f119af8.jpg)
+![website home screenshot4](https://user-images.githubusercontent.com/90231709/135007384-301d4113-fd2e-466c-be44-0a609f71508e.jpg)
+![website home screenshot5](https://user-images.githubusercontent.com/90231709/135007386-d769e5fb-24c5-42e9-be9b-363d87e16585.jpg)
+
